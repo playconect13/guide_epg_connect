@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="ESPN HD">
+    <display-name lang="pt">ESPN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ESPN HD²">
+    <display-name lang="pt">ESPN HD²</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <programme start="20241108120000 -0300" stop="20241108160000 -0300" channel="ESPN HD">
+    <title lang="pt">WTA Finals: Riyadh: Semifinal - Ao Vivo</title>
+  </programme>
+  <programme start="20241108160000 -0300" stop="20241108180000 -0300" channel="ESPN HD">
+    <title lang="pt">Al Hilal (KSA) x Esteghlal (IRN)</title>
+  </programme>
+  <programme start="20241108180000 -0300" stop="20241108200000 -0300" channel="ESPN HD">
+    <title lang="pt">Al Nassr (KSA) x Al-Ain (EAU)</title>
+  </programme>
+  <programme start="20241108200000 -0300" stop="20241108203000 -0300" channel="ESPN HD">
+    <title lang="pt">NBA Action</title>
+  </programme>
+  <programme start="20241108203000 -0300" stop="20241108213000 -0300" channel="ESPN HD">
+    <title lang="pt">ESPN League - Ao Vivo</title>
+  </programme>
+  <programme start="20241108213000 -0300" stop="20241108214300 -0300" channel="ESPN HD">
+    <title lang="pt">NBA - Ao Vivo</title>
+  </programme>
+  <programme start="20241108214300 -0300" stop="20241109000500 -0300" channel="ESPN HD">
+    <title lang="pt">NBA: Phoenix Suns x Dallas Mavericks - Ao Vivo</title>
+  </programme>
+</tv>
